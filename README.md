@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mafer!
+# Hi 👋, I'm Mafer Covarrubias!
 
 **Systems Engineering Student | AWS Cloud Practitioner || Frontend & Fullstack Enthusiast**
 
